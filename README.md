@@ -1,5 +1,5 @@
 # Robinhood Customer Churn Prediction
- The objective of this project is to build a model to predict whether a Robinhood customer has churned or will churn in the very near future.
+ The objective of this project was to build a model to predict whether a Robinhood customer has churned or will churn in the very near future.
  
  To accomplish this, a Random Forest Classifier model was constructed using basic customer profile data and daily total account equity data.
  Robinhood describes a customer as churned when the customer has less than $10 worth of equity on their account for at least 28 consecutive days after previously having at least $10 worth of equity.
